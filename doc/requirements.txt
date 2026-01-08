@@ -1,3 +1,4 @@
 canonical-sphinx[full]
 sphinxcontrib-svg2pdfconverter[CairoSVG]
 sphinx-last-updated-by-git
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
